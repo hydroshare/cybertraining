@@ -1,0 +1,81 @@
+,first_name,last_name,email,country,Academic Institution,position,travel_grant,accepted,UniqueID,Highest_MotivationID
+0,anonymous,anonymous,anonymous,USA,Not UW,Postdoc,,YES,25,
+1,anonymous,anonymous,anonymous,USA,Not UW,Research Staff,Yes,YES,65,
+2,anonymous,anonymous,anonymous,USA,University of Washington,Research Staff,Yes,YES,52,52
+3,anonymous,anonymous,anonymous,USA,University of Washington,grad_postgrad,Yes,YES,11,
+4,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,Yes,NO,38,38
+5,anonymous,anonymous,anonymous,USA,University of Washington,Postdoc,No,YES,26,26
+6,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,No,YES,32,
+7,anonymous,anonymous,anonymous,USA,Not UW,Faculty,Yes,YES,8,8
+8,anonymous,anonymous,anonymous,Ethiopia,Not UW,grad_postgrad,Yes,NO,35,
+9,anonymous,anonymous,anonymous,Thailand,Not UW,grad_postgrad,Yes,YES,75,
+10,anonymous,anonymous,anonymous,USA,Not UW,Government,Yes,NO,37,37
+11,anonymous,anonymous,anonymous,Nigeria,University of Washington,grad_postgrad,Yes,YES,64,64
+12,anonymous,anonymous,anonymous,CHINA,Not UW,Faculty,Yes,YES,73,
+13,anonymous,anonymous,anonymous,Canada,University of Washington,grad_postgrad,No,NO,53,53
+14,anonymous,anonymous,anonymous,Nepal,University of Washington,grad_postgrad,Yes,YES,72,
+15,anonymous,anonymous,anonymous,USA,University of Washington,grad_postgrad,Yes,YES,49,
+16,anonymous,anonymous,anonymous,USA,University of Washington,grad_postgrad,No,YES,50,50
+17,anonymous,anonymous,anonymous,Uganda,University of Washington,Industry,Yes,YES,62,
+18,anonymous,anonymous,anonymous,Uganda,University of Washington,grad_postgrad,Yes,NO,63,
+19,anonymous,anonymous,anonymous,Uganda,University of Washington,Postdoc,Yes,NO,66,
+20,anonymous,anonymous,anonymous,Czech Republic,University of Washington,Research Staff,Yes,YES,76,
+21,anonymous,anonymous,anonymous,UK,University of Washington,grad_postgrad,No,YES,44,44
+22,anonymous,anonymous,anonymous,USA,University of Washington,undergrad ,,YES,10,
+23,anonymous,anonymous,anonymous,USA,University of Washington,grad_postgrad,No,YES,54,54
+24,anonymous,anonymous,anonymous,USA,Not UW,Industry,Yes,NO,67,67
+25,anonymous,anonymous,anonymous,USA,Not UW,Tribal Government,No,YES,48,48
+26,anonymous,anonymous,anonymous,INDIA,Not UW,Government,Yes,YES,71,
+27,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,Yes,YES,39,39
+28,anonymous,anonymous,anonymous,USA,University of Washington,Faculty,No,YES,36,36
+29,anonymous,anonymous,anonymous,USA,University of Washington,grad_postgrad,No,YES,5,
+30,anonymous,anonymous,anonymous,Spain,University of Washington,Research Staff,Yes,YES,34,34
+31,anonymous,anonymous,anonymous,USA,Not UW,Research Staff,Yes,YES,60,60
+32,anonymous,anonymous,anonymous,USA,University of Washington,Research Staff,Yes,YES,41,41
+33,anonymous,anonymous,anonymous,Canada,Not UW,grad_postgrad,Yes,YES,47,
+34,anonymous,anonymous,anonymous,USA,Not UW,Industry,Yes,NO,13,13
+35,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,Yes,YES,46,46
+36,anonymous,anonymous,anonymous,USA,Not UW,Research Staff,No,YES,59,
+37,anonymous,anonymous,anonymous,Austria,Not UW,grad_postgrad,No,YES,58,58
+38,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,No,YES,69,
+39,anonymous,anonymous,anonymous,USA,Not UW,Government,Yes,YES,42,42
+40,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,Yes,YES,56,
+41,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,Yes,YES,9,
+42,anonymous,anonymous,anonymous,USA,Not UW,Postdoc,No,YES,3,
+43,anonymous,anonymous,anonymous,USA,Not UW,Faculty,No,YES,4,
+44,anonymous,anonymous,anonymous,USA,University of Washington,grad_postgrad,No,YES,6,6
+45,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,No,YES,12,
+46,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,Yes,NO,14,
+47,anonymous,anonymous,anonymous,USA,Not UW,Government,No,YES,15,
+48,anonymous,anonymous,anonymous,USA,Not UW,Research Staff,No,NO,16,16
+49,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,Yes,YES,17,
+50,anonymous,anonymous,anonymous,USA,University of Washington,grad_postgrad,No,YES,18,
+51,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,No,YES,20,
+52,anonymous,anonymous,anonymous,USA,Not UW,Industry,No,YES,21,21
+53,anonymous,anonymous,anonymous,USA,Not UW,Postdoc,No,YES,22,
+54,anonymous,anonymous,anonymous,USA,University of Washington,grad_postgrad,No,YES,23,
+55,anonymous,anonymous,anonymous,USA,Not UW,undergrad ,No,NO,24,
+56,anonymous,anonymous,anonymous,USA,University of Washington,grad_postgrad,No,YES,29,
+57,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,No,YES,30,
+58,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,No,NO,33,
+59,anonymous,anonymous,anonymous,USA,Not UW,Industry,No,YES,45,45
+60,anonymous,anonymous,anonymous,USA,Not UW,Postdoc,No,YES,55,
+61,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,Yes,YES,57,
+62,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,No,NO,70,70
+63,anonymous,anonymous,anonymous,USA,Not UW,Industry,No,YES,77,
+64,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,No,YES,78,
+65,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,,YES,51,
+66,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,No,YES,31,
+67,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,No,NO,19,
+68,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,No,NO,1,1
+69,anonymous,anonymous,anonymous,USA,University of Washington,grad_postgrad,No,YES,27,
+70,anonymous,anonymous,anonymous,USA,Not UW,Research Staff,Yes,NO,7,7
+71,anonymous,anonymous,anonymous,USA,Not UW,Research Staff,No,NO,68,
+72,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,No,YES,28,
+73,anonymous,anonymous,anonymous,USA,Not UW,Industry,No,NO,80,
+74,anonymous,anonymous,anonymous,USA,Not UW,Faculty,No,NO,79,
+75,anonymous,anonymous,anonymous,USA,Not UW,grad_postgrad,No,YES,2,2
+76,anonymous,anonymous,anonymous,USA,University of Washington,grad_postgrad,No,YES,40,40
+77,anonymous,anonymous,anonymous,USA,University of Washington,grad_postgrad,No,NO,61,61
+78,anonymous,anonymous,anonymous,Nepal,Not UW,grad_postgrad,Yes,YES,74,
+79,anonymous,anonymous,anonymous,China,Not UW,Research Staff,Yes,YES,43,
